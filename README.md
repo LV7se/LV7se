@@ -50,7 +50,7 @@
 
 ### 📱 设备
 [![iPhone 14 Pro](https://img.shields.io/badge/iPhone%2014%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/zh-cn/111849)
-[![iPhone SE](https://img.shields.io/badge/iPhone%20SE%20-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F))](https://support.apple.com/zh-cn/112005)
+[![iPhone SE](https://img.shields.io/badge/iPhone%20SE%20-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/zh-cn/112005)
 
 ---
 
