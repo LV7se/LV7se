@@ -42,12 +42,15 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
-**Devices**
+### 💻 环境
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/intl/zh-CN_cn/android-14/)
+[![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/ios/ios-17/)
 
-![Xiaomi 6X](https://img.shields.io/badge/Xiaomi_6X-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![Xiaomi 15](https://img.shields.io/badge/Xiaomi_15-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![Redmi K40](https://img.shields.io/badge/Redmi_K40-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![RedmiBook Pro 15](https://img.shields.io/badge/RedmiBook_Pro_15-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+### 📱 设备
+[![iPhone 14 Pro](https://img.shields.io/badge/iPhone%2014%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/zh-cn/111849)
+[![iPhone SE](https://img.shields.io/badge/iPhone%20SE%20-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F))](https://support.apple.com/zh-cn/112005)
 
 ---
 
