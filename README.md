@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=LKDenchin&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/LKDenchin?label=Followers&style=social" alt="Followers" />
 </div>
----
 
 ### 👋 Hello, I'm LV7! 
 
