@@ -35,13 +35,6 @@
 
 ---
 
-### 💻 Workspace Setup
-
-**Operating Systems**
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-
 ### 💻 环境
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
